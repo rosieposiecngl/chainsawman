@@ -1,6 +1,7 @@
 # anime_chainsawman
 
 A new Flutter project.
+Chainsawman Chars with dart
 
 ## Getting Started
 
